@@ -2,7 +2,6 @@
 
 I am a recent graduate from the University of Massachusetts Lowell, I have a passion for Cybersecurity and Software Engineering. I worked as IT Technical Support I 
 for the University and wish to continue improving my programming skills. My other interests are participating in HackTheBox, Leetcode, and OverWire.
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/khadeer-choudhry-3a09aa205/" target="_blank" rel="noreferrer noopener">
